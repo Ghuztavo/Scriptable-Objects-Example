@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdde4389ede313e4bad4125e3080b909, type: 3}
+  m_Name: MyCardList
+  m_EditorClassIdentifier: Assembly-CSharp::CardList
+  cardResourcePaths:
+  - Cards/Card_1
+  - Cards/Card_2
+  - Cards/Card_3
+  - Cards/Card_4
+  - Cards/Card_5
+  - Cards/Card_6
+  - Cards/Card_7
+  - Cards/Card_8
+  - Cards/Card_9

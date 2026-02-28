@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da907bc406030624bba7d8e76a0e3ca3, type: 3}
+  m_Name: Card_5
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  NameLocKey: MentorName
+  DescriptionLocKey: MentorDescription
+  Type: Support
+  Cost: 4
+  Att: 3
+  Def: 8
+  Image: {fileID: 6917474381550652228, guid: f5bae1727e773ff409e2ec147fa573e8, type: 3}

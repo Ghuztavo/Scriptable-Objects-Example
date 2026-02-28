@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aef974ad94c88a6419965d67bf2d9a28, type: 3}
+  m_Name: MainLanguage
+  m_EditorClassIdentifier: Assembly-CSharp::Language
+  locDataList:
+  - key: ArcherName
+    en: '[En]Archer'
+    fr: '[Fr]Archer'
+    sp: '[Sp]Archer'
+  - key: ArcherDescription
+    en: '[En]He has a bow and arrows'
+    fr: '[Fr]He has a bow and arrows'
+    sp: '[Sp]He has a bow and arrows'
+  - key: FootmanName
+    en: '[En]Footman'
+    fr: '[Fr]Footman'
+    sp: '[Sp]Footman'
+  - key: FootmanDescription
+    en: '[En]He is a cool guy'
+    fr: '[Fr]He is a cool guy'
+    sp: '[Sp]He is a cool guy'
+  - key: GuardianName
+    en: '[En]Guardian'
+    fr: '[Fr]Guardian'
+    sp: '[Sp]Guardian'
+  - key: GuardianDescription
+    en: '[En]He has a shield'
+    fr: '[Fr]He has a shield'
+    sp: '[Sp]He has a shield'
+  - key: KnightName
+    en: '[En]Knight'
+    fr: '[Fr]Knight'
+    sp: '[Sp]Knight'
+  - key: KnightDescription
+    en: '[En]He knows how to use the sword'
+    fr: '[Fr]He knows how to use the sword'
+    sp: '[Sp]He knows how to use the sword'
+  - key: MentorName
+    en: '[En]Mentor'
+    fr: '[Fr]Mentor'
+    sp: '[Sp]Mentor'
+  - key: MentorDescription
+    en: '[En]He boosts the troops'
+    fr: '[Fr]He boosts the troops'
+    sp: '[Sp]He boosts the troops'
+  - key: MercenaryName
+    en: '[En]Mercenary'
+    fr: '[Fr]Mercenary'
+    sp: '[Sp]Mercenary'
+  - key: MercenaryDescription
+    en: '[En]He has a cool crosbow'
+    fr: '[Fr]He has a cool crosbow'
+    sp: '[Sp]He has a cool crosbow'
+  - key: SpearmanName
+    en: '[En]Spearman'
+    fr: '[Fr]Spearman'
+    sp: '[Sp]Spearman'
+  - key: SpearmanDescription
+    en: '[En]He has a cool spear'
+    fr: '[Fr]He has a cool spear'
+    sp: '[Sp]He has a cool spear'
+  - key: SquadLeaderName
+    en: '[En]SquadLeader'
+    fr: '[Fr]SquadLeader'
+    sp: '[Sp]SquadLeader'
+  - key: SquadLeaderDescription
+    en: '[En]He is the leader of the troops'
+    fr: '[Fr]He is the leader of the troops'
+    sp: '[Sp]He is the leader of the troops'
+  - key: WarriorName
+    en: '[En]Warrior'
+    fr: '[Fr]Warrior'
+    sp: '[Sp]Warrior'
+  - key: WarriorDescription
+    en: '[En]He has a crossbow AND a sword'
+    fr: '[Fr]He has a crossbow AND a sword'
+    sp: '[Sp]He has a crossbow AND a sword'

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da907bc406030624bba7d8e76a0e3ca3, type: 3}
+  m_Name: Card_2
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  NameLocKey: FootmanName
+  DescriptionLocKey: FootmanDescription
+  Type: Close combat
+  Cost: 1
+  Att: 7
+  Def: 2
+  Image: {fileID: 8774543030657898793, guid: 4a8e666b71d74fb448980d0bac239a4f, type: 3}
